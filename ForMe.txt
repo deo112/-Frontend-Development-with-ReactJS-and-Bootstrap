@@ -1,3 +1,8 @@
+
 1. Start by building skeleton:
 cmd:
 npx create-react-app your_app_name
+2. Add Bootstrap to project
+cmd:
+npm i bootstrap --save
+npm i node-sass -- save
